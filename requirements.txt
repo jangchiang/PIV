@@ -1,0 +1,12 @@
+PyQt5
+opencv-python
+pyrealsense2
+numpy
+openpiv
+matplotlib
+cupy-cuda11x
+psutil
+GPUtil
+pandas
+pyqtgraph
+memory-profiler
